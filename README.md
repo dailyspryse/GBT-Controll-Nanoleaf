@@ -36,8 +36,12 @@ Rufe `dilly.py` auf und gib Dilly coole Befehle wie diese:
 - "Dilly, kannst du die Helligkeit auf 50 ändern?" ☀️
 - Natülich musst dus net unbedingt so schreiben, sie versteht alles!
 
-  ##OUTPUT
-  
+## OUTPUT
+![image](https://github.com/dailyspryse/GBT-Controll-Nanoleaf/assets/77054041/00d0fe6d-9e9a-4329-aa12-8334578a30e2)
+
+
+
+
 
 ## Lizenz
 
