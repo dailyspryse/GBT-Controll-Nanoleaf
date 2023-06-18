@@ -20,7 +20,7 @@ Um Dilly zu verwenden, benötigst du Folgendes:
 ## Installation
 
 1. Hol dir den Code, indem du das Repository klonst oder die Dateien herunterlädst. 🛋️🎮
-2. Installiere die benötigten Python-Bibliotheken mit dem Befehl: `pip install openai nanoleafapi`. Einfach und schnell! ⚡️💻
+2. Installiere die benötigten Python-Bibliotheken mit dem Befehl: `pip install openai nanoleafapi`. ⚡️
 
 ## Konfiguration
 
