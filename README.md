@@ -47,4 +47,4 @@ Rufe `dilly.py` auf und gib Dilly coole Befehle wie diese:
 
 Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der [LICENSE.md](LICENSE.md) Datei. Legal und lässig! 📜👌
 
-Jetzt bist du bereit, Dilly zu starten und deine Nanoleaf-Beleuchtung zu rocken! Lass das Lichtspiel beginnen! 🎉💡✨
+
